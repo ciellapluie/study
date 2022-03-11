@@ -1,3 +1,3 @@
 # study
 JAVA 
-md : mark down
+* md : mark down
